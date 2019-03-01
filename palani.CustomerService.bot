@@ -1,0 +1,18 @@
+{
+    "name": "palani.CustomerService",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "9d6a86f2-2fa3-4d63-b796-e89679f4ebe2",
+            "appPassword": "vovgpWJFG89!?hzZPL573}{",
+            "endpoint": "http://localhost:3979/api/messages",
+            "id": "54e10d20-3c0c-11e9-8ba3-8107c37b8847",
+            "name": "botanywhere"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\palani\\projects\\Palani.CustomerService\\palani.CustomerService.bot",
+    "overrides": null
+}
